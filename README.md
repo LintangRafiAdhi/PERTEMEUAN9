@@ -100,3 +100,8 @@ print(tabel)
 
 
 ![Screenshot (20231114-112546)](https://github.com/calamities17/PERTEMEUAN9/assets/147371058/97d20c9e-db16-4f5a-aa08-bd8b833531b7)
+
+
+<h1>FLOWCHART</h1>
+
+![ss39](https://github.com/calamities17/PERTEMEUAN9/assets/147371058/b47b223a-595f-4462-b14f-46527b34b4d1)
